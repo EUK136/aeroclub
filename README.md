@@ -12,14 +12,14 @@ El proyecto consiste en generar una web donde contabilizar las horas de vuelo (l
 
 TO DO:
 
-[ ] Logbook
-[ ] Apartado flota y documentación
-[ ] Apartado prevuelo
-[ ] Crear base de datos
-[ ] Crear backend
+- [ ] Logbook
+- [ ] Apartado flota y documentación
+- [ ] Apartado prevuelo
+- [ ] Crear base de datos
+- [ ] Crear backend
 
 Posible incorporación apartado RPAS:
 
-[ ] Logbook
-[ ] Flota
-[ ] Documentación
+- [ ] Logbook
+- [ ] Flota
+- [ ] Documentación
