@@ -1,25 +1,23 @@
 # Aeroclub
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.4.
+The project is initially a digital logbook to control the flight hours of both airplanes and RPAS (Drone), keep flight licenses and medical certificates up to date, the idea was born as a web on localhost just to have your own hours recorded.
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Once the project has been created, it is thought of expanding it to be the hedaquarter of an aeroclub where it is possible to manage the fleets, pilots, hours flown... for this it is necessary to create an account and login system.
 
 ---
 
-El proyecto consiste en generar una web donde contabilizar las horas de vuelo (logbook), gestión de los aviones y documentación asociada ellos, herramientas de preparación del vuelo.
-
-TO DO:
+### TO DO:
 
 - [ ] Logbook
-- [ ] Apartado flota y documentación
-- [ ] Apartado prevuelo
-- [ ] Crear base de datos
-- [ ] Crear backend
+- [ ] Fleet and documentation
+- [ ] Preflight
+- [ ] Login system
+- [ ] Create document (PDF) with logbook
+- [ ] Create database
+- [ ] Create backend
 
-Posible incorporación apartado RPAS:
+### Possible incorporation of the RPAS section:
 
 - [ ] Logbook
-- [ ] Flota
-- [ ] Documentación
+- [ ] Fleet
+- [ ] Documentation
